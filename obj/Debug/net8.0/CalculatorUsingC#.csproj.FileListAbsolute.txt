@@ -1,0 +1,14 @@
+/home/ziphoncayiyana/CalculatorUsingC#/bin/Debug/net8.0/CalculatorUsingC#
+/home/ziphoncayiyana/CalculatorUsingC#/bin/Debug/net8.0/CalculatorUsingC#.deps.json
+/home/ziphoncayiyana/CalculatorUsingC#/bin/Debug/net8.0/CalculatorUsingC#.runtimeconfig.json
+/home/ziphoncayiyana/CalculatorUsingC#/bin/Debug/net8.0/CalculatorUsingC#.dll
+/home/ziphoncayiyana/CalculatorUsingC#/bin/Debug/net8.0/CalculatorUsingC#.pdb
+/home/ziphoncayiyana/CalculatorUsingC#/obj/Debug/net8.0/CalculatorUsingC#.GeneratedMSBuildEditorConfig.editorconfig
+/home/ziphoncayiyana/CalculatorUsingC#/obj/Debug/net8.0/CalculatorUsingC#.AssemblyInfoInputs.cache
+/home/ziphoncayiyana/CalculatorUsingC#/obj/Debug/net8.0/CalculatorUsingC#.AssemblyInfo.cs
+/home/ziphoncayiyana/CalculatorUsingC#/obj/Debug/net8.0/CalculatorUsingC#.csproj.CoreCompileInputs.cache
+/home/ziphoncayiyana/CalculatorUsingC#/obj/Debug/net8.0/CalculatorUsingC#.dll
+/home/ziphoncayiyana/CalculatorUsingC#/obj/Debug/net8.0/refint/CalculatorUsingC#.dll
+/home/ziphoncayiyana/CalculatorUsingC#/obj/Debug/net8.0/CalculatorUsingC#.pdb
+/home/ziphoncayiyana/CalculatorUsingC#/obj/Debug/net8.0/CalculatorUsingC#.genruntimeconfig.cache
+/home/ziphoncayiyana/CalculatorUsingC#/obj/Debug/net8.0/ref/CalculatorUsingC#.dll
